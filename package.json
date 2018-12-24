@@ -1,0 +1,17 @@
+{
+  "name": "unpackData",
+  "version": "1.0.0",
+  "homepage": "https://github.com/savage69kr/unpackData",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savage69kr/unpackData.git"
+  },
+  "dependencies": {
+    "pako": "^1.0.7"
+  }
+}
